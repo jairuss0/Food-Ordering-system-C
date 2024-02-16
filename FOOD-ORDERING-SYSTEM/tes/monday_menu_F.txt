@@ -1,0 +1,20 @@
+1
+ hotdog
+ 15.000000
+ Available
+2
+ sopas
+ 10.000000
+ Available
+3
+ pancit
+ 20.000000
+ Sold out
+4
+ itlog
+ 30.000000
+ Available
+5
+ half rice
+ 5.000000
+ Available

@@ -1,0 +1,28 @@
+1
+ LONGGANISA
+ 15.000000
+ Available
+2
+ ITLOG
+ 12.000000
+ Available
+3
+ SOPAS
+ 15.000000
+ Available
+4
+ CHAMPURADO
+ 15.000000
+ Available
+5
+ MALING
+ 15.000000
+ Available
+6
+ RICE
+ 10.000000
+ Available
+7
+ HALF-RICE
+ 5.000000
+ Available

@@ -1,0 +1,12 @@
+1
+ nescafe white
+ 15.000000
+ Available
+2
+ nescafe twin pack
+ 14.000000
+ Available
+3
+ kopiko black
+ 23.000000
+ Available
